@@ -22,6 +22,7 @@ The game can be run in three different ways where alternative 1 and 2 should wor
 ---------------------------------------------------------------------------------------------------------------
 
 CREDITS:
+
 Design: Martin Berntsson
 
 Programming: Martin Berntsson
