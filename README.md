@@ -23,9 +23,13 @@ The game can be run in three different ways where alternative 1 and 2 should wor
 
 CREDITS:
 Design: Martin Berntsson
+
 Programming: Martin Berntsson
+
 Art: Martin Berntsson
+
 Music: Juhani Junkala, Zane Little
+
 Sound: Juhani Junkala, Martin Berntsson
 
 Special thanks to Sara Spalding for their platformer tutorial on Youtube which kickstarted this whole thing.
