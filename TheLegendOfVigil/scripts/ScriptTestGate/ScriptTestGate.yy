@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"ScriptTestGate",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ScriptTestGate",
+  "parent":{
+    "name":"LeverScripts",
+    "path":"folders/Scripts/LeverScripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

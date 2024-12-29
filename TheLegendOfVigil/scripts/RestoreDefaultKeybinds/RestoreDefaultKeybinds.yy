@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"RestoreDefaultKeybinds",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"RestoreDefaultKeybinds",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

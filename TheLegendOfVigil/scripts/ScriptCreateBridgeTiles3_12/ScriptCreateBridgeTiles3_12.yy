@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"ScriptCreateBridgeTiles3_12",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ScriptCreateBridgeTiles3_12",
+  "parent":{
+    "name":"LeverScripts",
+    "path":"folders/Scripts/LeverScripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

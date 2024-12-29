@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"AngryYetiFallingBoss",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"AngryYetiFallingBoss",
+  "parent":{
+    "name":"Abominable yeti",
+    "path":"folders/Scripts/Enemy states/Boss states/Abominable yeti.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
